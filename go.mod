@@ -1,4 +1,4 @@
-module requests
+module github.com/superfish-o/requests
 
 go 1.16
 

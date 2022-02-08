@@ -7,7 +7,7 @@ package mock
 import (
 	http "net/http"
 	reflect "reflect"
-	requests "requests"
+	requests "github.com/superfish-o/requests"
 	time "time"
 
 	gomock "github.com/golang/mock/gomock"
